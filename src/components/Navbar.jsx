@@ -13,8 +13,8 @@ const Navbar = () => {
           <Link as={RouterLink} to="/" color="white" mx={2}>
             Home
           </Link>
-          <Link as={RouterLink} to="/about" color="white" mx={2}>
-            About
+          <Link as={RouterLink} to="/events" color="white" mx={2}>
+            Events
           </Link>
         </Flex>
       </Flex>
